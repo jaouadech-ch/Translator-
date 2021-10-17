@@ -20,7 +20,6 @@ public class Main {
             this.name = name;
             this.address = address;
             this.city = city;
-
             this.zip = zip;
             this.phone = phone;
         }
@@ -119,7 +118,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
-	// write your code here
+	//next week!!
 
     }
 }
